@@ -1,0 +1,274 @@
+@media screen and (max-width: 1440px) {
+    .img-sc6 {
+        width: 500px;
+    }
+    .sc2-slide {
+        height: 700px;
+        width: 1200px;
+    }
+    .sc2-text {
+        width: 100%;
+    }
+    .sc3-cardtext {
+        font-size: 1.5rem;
+    }
+    .slider img {
+        height: 260px;
+    }
+    .pr-150 {
+        padding-right: 450px;
+    }
+    .pl-150 {
+        padding-left: 450px;
+    }
+    
+    .sc2-h2 {
+        font-size: 55px;
+    }
+    .sc3-h2 {
+        font-size: 55px;
+    }
+    .sc4-h2 {
+        font-size: 55px;
+    }
+    .sc5-h2 {
+        font-size: 55px;
+    }
+    .sc6-h2 {
+        font-size: 55px;
+    }
+    .sc3-img {
+        width: 330px;
+    }
+}
+@media screen and (max-width: 1040px) {
+    .sc5-img {
+        height: 300px;
+    }
+    .sc3-cardtext {
+        font-size: 1.6rem;
+    }
+    .sc2-text {
+        width: 100%;
+    }
+    .sc2-text-cont {
+        font-size: 1.7rem;
+    }
+      .sc2-slide {
+        height: 500px;
+        width: 700px;
+    }
+    .sc2-h2 {
+        font-size: 50px;
+    }
+    .sc3-h2 {
+        font-size: 50px;
+    }
+    .sc5-h2 {
+        font-size: 50px;
+    }
+    .sc6-h2 {
+        font-size: 50px;
+    }
+    video {
+        height: 100%;
+    }
+    .logo {
+        width: 200px;
+        height: 200px;
+        margin-top: 200px;
+    }
+    .header-logo {
+        width: 130px;
+        height: 50px;
+    }
+    header {
+        height: 65vh;
+    }
+    .pl-200 {
+        padding-left: 350px;
+    }
+    
+    .pr-200 {
+        padding-right: 350px;
+    }
+    .pr-150 {
+        padding-right: 310px;
+    }
+    .pl-150 {
+        padding-left: 310px;
+    }
+    .pr-50 {
+        padding-right: 5px;
+    }
+    .pl-50 {
+        padding-left: 5px;
+    }
+    .sc3-img {
+        width: 240px;
+    }
+    .sc4-h3 {
+        padding-top: 35px;
+        font-size: 55px;
+    }
+    .slider img {
+        height: 220px;
+    }
+    .footer-a {
+        font-size: 12px;
+    }
+}
+@media screen and (max-width: 800px) {
+    header {
+        height: 37vh;
+    }
+    .logo {
+        width: 100px;
+        height: 100px;
+        margin-top: 100px;
+    }
+    .header-logo {
+        width: 100px;
+        height: 40px;
+        margin-left: -9%;
+    }
+    .sc2-h2 {
+        font-size: 40px;
+    }
+    .sc3-h2 {
+        font-size: 40px;
+    }
+    .sc5-h2 {
+        font-size: 40px;
+    }
+    .sc6-h2 {
+        font-size: 40px;
+    }
+
+    .pl-200 {
+        padding-left: 270px;
+    }
+    .pr-200 {
+        padding-right: 270px;
+    }
+    .pr-150 {
+        padding-right: 242px;
+    }
+    .pl-150 {
+        padding-left: 242px;
+    }
+    .pr-50 {
+        padding-right: 0;
+    }
+    .pl-50 {
+        padding-left: 0;
+    }
+    .slider img {
+        height: 160px;
+    }
+    .sc2-text-cont {
+        font-size: 1.3rem;
+    }
+    .sc2-bugatti {
+        width: 120px;
+        height: 50px;
+        margin-right: 120px;
+        margin-left: 80px;
+    }
+    .sc2-slide {
+        height: 300px;
+        width: 500px;
+    }
+    .sc5-img {
+        height: 230px;
+    }
+    .sc2-int-text {
+        font-size: 1.1rem;
+    }
+    #section-5 {
+        padding: 5vh 0 2vh 3rem;
+    }
+}
+@media screen and (max-width: 640px) {
+    .sc2-h2 {
+        font-size: 30px;
+    }
+    .sc3-h2 {
+        font-size: 30px;
+    }
+    .sc5-h2 {
+        font-size: 30px;
+    }
+    .sc6-h2 {
+        font-size: 30px;
+    }
+
+    .pl-200 {
+        padding-left: 150px;
+    }
+    .pr-200 {
+        padding-right: 150px;
+    }
+    .pr-150 {
+        padding-right: 202px;
+    }
+    .pl-150 {
+        padding-left: 102px;
+    }
+    .pr-50 {
+        padding-right: 0;
+    }
+    .pl-50 {
+        padding-left: 0;
+    }
+    .sc3-cardtext {
+        font-size: 1rem;
+    }
+    .fz-small {
+        font-size: 0.9rem;
+    }
+    .sc5-img {
+        height: 160px;
+    }
+    .sc3-img {
+        width: 160px;
+    }
+    .sc4-h3 {
+        padding-top: 35px;
+        font-size: 30px;
+    }
+    .sc4-text {
+        padding-top: 45px;
+        font-size: 1.3rem;
+    }
+}
+@media screen and (max-width: 420px) {
+    .sc2-bugatti {
+        width: 70px;
+        height: 30px;
+        margin-left: 10px;
+        margin-right: 0;
+    }
+    .sc2-introduct {
+         padding-left: 0; 
+    }
+    header {
+        height: 33vh;
+    }
+    .footer-text {
+        font-size: 8px;
+    }
+    .footer-a {
+        font-size: 8px;
+    }
+    .sc2-slide {
+        height: 200px;
+        width: 300px;
+    }
+    .sc3-img {
+        width: 120px;
+    }
+    .sc5-img {
+        height: 100px;
+    }
+}
